@@ -198,8 +198,8 @@
           "name": "Zeke",
           "persistentUuid": "69dff993-81e1-4df6-add4-e0f923c118e8",
           "width": 0,
-          "x": 650,
-          "y": 106,
+          "x": 632,
+          "y": 87,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -444,7 +444,7 @@
                   },
                   "parameters": [
                     "",
-                    "2",
+                    "2.8",
                     "\"level background\"",
                     ""
                   ],
@@ -457,7 +457,7 @@
                   },
                   "parameters": [
                     "",
-                    "2",
+                    "2.8",
                     "",
                     ""
                   ],

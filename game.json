@@ -85,42 +85,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "NewSprite-2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewSprite-2.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "NewSprite-3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewSprite-3.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "NewSprite-4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewSprite-4.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "NewSprite-5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewSprite-5.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/Camera.png",
         "kind": "image",
         "metadata": "",
@@ -209,6 +173,323 @@
           "identifier": "https://resources.gdevelop-app.com/assets/Interface/16x16 Pixel PS4 Controller Buttons/Analog Stick_Up.png",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/backgrounds/ZombiesAteMyNeighbors-Level12-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\backgrounds\\ZombiesAteMyNeighbors-Level12-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/backgrounds/ZombiesAteMyNeighbors-Level12-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\backgrounds\\ZombiesAteMyNeighbors-Level12-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/backgrounds/Zombies Ate My Neighbors - Level 12-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\backgrounds\\Zombies Ate My Neighbors - Level 12-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Round joystick.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Round joystick.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/On-Screen Controls/Sprites/Flat Light/Round joystick.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bottom arrow round button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bottom arrow round button.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/On-Screen Controls/Sprites/Shaded Dark/Bottom arrow round button.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Left arrow round button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Left arrow round button.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/On-Screen Controls/Sprites/Shaded Dark/Left arrow round button.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Right arrow round button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Right arrow round button.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/On-Screen Controls/Sprites/Shaded Dark/Right arrow round button.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Top arrow round button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Top arrow round button.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/On-Screen Controls/Sprites/Shaded Dark/Top arrow round button.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "wlakingLeft-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wlakingLeft-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "wlakingLeft-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wlakingLeft-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "wlakingLeft-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wlakingLeft-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "wlakingLeft-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wlakingLeft-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "wlakingLeft-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "wlakingLeft-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/sprites/heroes/zeke/walkingLeft-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\sprites\\heroes\\zeke\\walkingLeft-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walkingUp-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walkingUp-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walkingUp-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walkingUp-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walkingUp-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walkingUp-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walkingUp-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walkingUp-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/sprites/heroes/zeke/idleUp-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\sprites\\heroes\\zeke\\idleUp-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/sprites/heroes/zeke/Zeke-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\sprites\\heroes\\zeke\\Zeke-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/sprites/heroes/zeke/Zeke-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\sprites\\heroes\\zeke\\Zeke-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/sprites/heroes/zeke/Zeke-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\sprites\\heroes\\zeke\\Zeke-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/sprites/heroes/zeke/Zeke-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\sprites\\heroes\\zeke\\Zeke-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/sprites/heroes/zeke/idleRight-zeke-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\sprites\\heroes\\zeke\\idleRight-zeke-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewSprite-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewSprite-5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walkingLeft-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walkingLeft-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walkingLeft-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walkingLeft-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walkingLeft-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walkingLeft-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "walkingLeft-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "walkingLeft-4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/helpers/boundary.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\helpers\\boundary.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -240,33 +521,12 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.47999999999999954,
+        "zoomFactor": 0.6199999999999999,
         "windowMask": true
       },
       "objectsGroups": [],
       "variables": [],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "level background",
-          "locked": false,
-          "name": "background",
-          "persistentUuid": "874c6ed2-f0b2-4a9e-9c3e-5b4f680bb06d",
-          "width": 0,
-          "x": -996,
-          "y": -171,
-          "zOrder": 6,
-          "numberProperties": [
-            {
-              "name": "animation",
-              "value": 0
-            }
-          ],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": false,
@@ -289,28 +549,76 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "RoundJoystickOuter",
-          "persistentUuid": "33f4c320-2b9d-4268-bda1-013a758b1379",
+          "name": "bg_level_12",
+          "persistentUuid": "b1642d92-921e-4772-a830-82332d1ffcac",
           "width": 0,
-          "x": -544,
-          "y": 608,
-          "zOrder": 7,
+          "x": -992,
+          "y": 0,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
           "angle": 0,
-          "customSize": true,
-          "height": 112,
-          "layer": "",
+          "customSize": false,
+          "height": 0,
+          "layer": "controls",
           "locked": false,
-          "name": "AnalogStick",
-          "persistentUuid": "83e62fdc-7e58-4dcd-8054-0af9767dcad2",
-          "width": 128,
-          "x": -521,
-          "y": 628,
-          "zOrder": 8,
+          "name": "TopArrowRoundButton",
+          "persistentUuid": "aec2f71a-accc-4da5-9254-2a9c08b8d3cd",
+          "width": 0,
+          "x": 120,
+          "y": 335,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "controls",
+          "locked": false,
+          "name": "RightArrowRoundButton",
+          "persistentUuid": "10ab10c7-1d4a-4ef2-8f57-f0445224dd35",
+          "width": 0,
+          "x": 201,
+          "y": 415,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "controls",
+          "locked": false,
+          "name": "LeftArrowRoundButton",
+          "persistentUuid": "af5677bd-6580-4f29-9137-9aa68238d0c2",
+          "width": 0,
+          "x": 42,
+          "y": 413,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "controls",
+          "locked": false,
+          "name": "BottomArrowRoundButton",
+          "persistentUuid": "15966c90-c727-43a5-9fc6-4fc46c4c3982",
+          "width": 0,
+          "x": 122,
+          "y": 494,
+          "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -327,7 +635,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "idle",
+              "name": "idleDown-zeke",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -356,30 +664,13 @@
               ]
             },
             {
-              "name": "walkingDown",
+              "name": "walkingDown-zeke",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": true,
                   "timeBetweenFrames": 0.07999999821186066,
                   "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "NewSprite-1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    },
                     {
                       "hasCustomCollisionMask": false,
                       "image": "NewSprite-2.png",
@@ -451,11 +742,338 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "idleLeft-zeke",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\sprites\\heroes\\zeke\\walkingLeft-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "walkingLeft-zeke",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walkingLeft-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walkingLeft-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walkingLeft-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walkingLeft-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "idleUp-zeke",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\sprites\\heroes\\zeke\\idleUp-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "walkingUp-zeke",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walkingUp-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walkingUp-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walkingUp-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "walkingUp-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "idleRight-zeke",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\sprites\\heroes\\zeke\\idleRight-zeke-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "walkingRight-zeke",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.07999999821186066,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\sprites\\heroes\\zeke\\Zeke-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\sprites\\heroes\\zeke\\Zeke-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\sprites\\heroes\\zeke\\Zeke-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\sprites\\heroes\\zeke\\Zeke-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
         {
-          "name": "background",
+          "name": "bg_level_12",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -473,8 +1091,14 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "assets\\backgrounds\\Zombies Ate My Neighbors - Level 12.png",
-                      "points": [],
+                      "image": "assets\\backgrounds\\Zombies Ate My Neighbors - Level 12-1.png",
+                      "points": [
+                        {
+                          "name": "end",
+                          "x": 1791,
+                          "y": 1070
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -495,26 +1119,13 @@
           ]
         },
         {
-          "name": "RoundJoystickOuter",
+          "name": "BottomArrowRoundButton",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [
-            {
-              "name": "MultitouchJoystick",
-              "type": "MultitouchJoystick::MultitouchJoystick",
-              "JoystickAngle": 0,
-              "JoystickForce": 0,
-              "IsPressed": false,
-              "TouchID": 0,
-              "TouchDistance": 0,
-              "FloatingEnabled": false,
-              "ButtonReleased": false,
-              "TouchCounter": 0
-            }
-          ],
+          "behaviors": [],
           "animations": [
             {
               "name": "",
@@ -526,7 +1137,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Round joystick (outer).png",
+                      "image": "Bottom arrow round button.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -548,7 +1159,7 @@
           ]
         },
         {
-          "name": "AnalogStick",
+          "name": "LeftArrowRoundButton",
           "tags": "",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -557,7 +1168,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "Down",
+              "name": "",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -566,7 +1177,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Analog Stick_Down.png",
+                      "image": "Left arrow round button.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -584,9 +1195,20 @@
                   ]
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "RightArrowRoundButton",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
             {
-              "name": "Left",
+              "name": "",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -595,7 +1217,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Analog Stick_Left.png",
+                      "image": "Right arrow round button.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -613,9 +1235,20 @@
                   ]
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "TopArrowRoundButton",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
             {
-              "name": "Middle",
+              "name": "",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -624,7 +1257,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Analog Stick_Middle.png",
+                      "image": "Top arrow round button.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -642,47 +1275,37 @@
                   ]
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "name": "helperBoundary",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
             {
-              "name": "Right",
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "boundary",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
-                  "timeBetweenFrames": 0.02500000037252903,
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Analog Stick_Right.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Up",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "timeBetweenFrames": 0.02500000037252903,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "Analog Stick_Up.png",
+                      "image": "assets\\helpers\\boundary.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -819,13 +1442,15 @@
                 {
                   "type": {
                     "inverted": false,
-                    "value": "CentreCamera"
+                    "value": "ClampCamera"
                   },
                   "parameters": [
                     "",
-                    "Zeke",
+                    "-992",
+                    "0",
+                    "800",
+                    "1072",
                     "",
-                    "\"level background\"",
                     ""
                   ],
                   "subInstructions": []
@@ -850,175 +1475,8 @@
               "subInstructions": []
             }
           ],
-          "actions": [
-            {
-              "type": {
-                "inverted": false,
-                "value": "MultitouchJoystick::MultitouchJoystick::ActivateJoystick"
-              },
-              "parameters": [
-                "RoundJoystickOuter",
-                "MultitouchJoystick",
-                "AnalogStick",
-                ""
-              ],
-              "subInstructions": []
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MultitouchJoystick::MultitouchJoystick::CheckJoystickForce"
-                  },
-                  "parameters": [
-                    "RoundJoystickOuter",
-                    "MultitouchJoystick",
-                    "0.4",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [],
-              "events": []
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MultitouchJoystick::MultitouchJoystick::DirectionPushed"
-                  },
-                  "parameters": [
-                    "RoundJoystickOuter",
-                    "MultitouchJoystick",
-                    "\"Left\"",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "TopDownMovementBehavior::SimulateControl"
-                  },
-                  "parameters": [
-                    "Zeke",
-                    "",
-                    "\"Left\""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MultitouchJoystick::MultitouchJoystick::DirectionPushed"
-                  },
-                  "parameters": [
-                    "RoundJoystickOuter",
-                    "MultitouchJoystick",
-                    "\"Right\"",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "TopDownMovementBehavior::SimulateControl"
-                  },
-                  "parameters": [
-                    "Zeke",
-                    "",
-                    "\"Right\""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MultitouchJoystick::MultitouchJoystick::DirectionPushed"
-                  },
-                  "parameters": [
-                    "RoundJoystickOuter",
-                    "MultitouchJoystick",
-                    "\"Up\"",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "PlatformBehavior::SimulateControl"
-                  },
-                  "parameters": [
-                    "Zeke",
-                    "",
-                    "\"Up\""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MultitouchJoystick::MultitouchJoystick::DirectionPushed"
-                  },
-                  "parameters": [
-                    "RoundJoystickOuter",
-                    "MultitouchJoystick",
-                    "\"Down\"",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "PlatformBehavior::SimulateControl"
-                  },
-                  "parameters": [
-                    "Zeke",
-                    "",
-                    "\"Down\""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            }
-          ]
+          "actions": [],
+          "events": []
         },
         {
           "colorB": 228,
@@ -1030,205 +1488,539 @@
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Keyboard",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
                 {
-                  "type": {
-                    "inverted": false,
-                    "value": "KeyPressed"
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
                   },
-                  "parameters": [
-                    "Zeke",
-                    "s"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "SetAnimationName"
-                  },
-                  "parameters": [
-                    "Zeke",
-                    "\"walkingDown\""
-                  ],
-                  "subInstructions": []
+                  "comment": "Keyboard",
+                  "comment2": ""
                 },
                 {
-                  "type": {
-                    "inverted": false,
-                    "value": "AddForceXY"
-                  },
-                  "parameters": [
-                    "Zeke",
-                    "0",
-                    "100",
-                    "0"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "w"
+                      ],
+                      "subInstructions": []
+                    }
                   ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "Zeke",
-                    "w"
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "\"walkingUp-zeke\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "0",
+                        "-100",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
                   ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "SetAnimationName"
-                  },
-                  "parameters": [
-                    "Zeke",
-                    "\"walkingDown\""
-                  ],
-                  "subInstructions": []
+                  "events": []
                 },
                 {
-                  "type": {
-                    "inverted": false,
-                    "value": "AddForceXY"
-                  },
-                  "parameters": [
-                    "Zeke",
-                    "0",
-                    "-100",
-                    "0"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "KeyReleased"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "w"
+                      ],
+                      "subInstructions": []
+                    }
                   ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "Zeke",
-                    "d"
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "\"idleUp-zeke\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "0",
+                        "-100",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
                   ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "SetAnimationName"
-                  },
-                  "parameters": [
-                    "Zeke",
-                    "\"walkingDown\""
-                  ],
-                  "subInstructions": []
+                  "events": []
                 },
                 {
-                  "type": {
-                    "inverted": false,
-                    "value": "AddForceXY"
-                  },
-                  "parameters": [
-                    "Zeke",
-                    "100",
-                    "0",
-                    "0"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "d"
+                      ],
+                      "subInstructions": []
+                    }
                   ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "Zeke",
-                    "a"
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "\"walkingRight-zeke\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "100",
+                        "0",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
                   ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "SetAnimationName"
-                  },
-                  "parameters": [
-                    "Zeke",
-                    "\"walkingDown\""
-                  ],
-                  "subInstructions": []
+                  "events": []
                 },
                 {
-                  "type": {
-                    "inverted": false,
-                    "value": "AddForceXY"
-                  },
-                  "parameters": [
-                    "Zeke",
-                    "-100",
-                    "0",
-                    "0"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "KeyReleased"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "d"
+                      ],
+                      "subInstructions": []
+                    }
                   ],
-                  "subInstructions": []
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "\"idleRight-zeke\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "0",
+                        "-100",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "a"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "\"walkingLeft-zeke\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "-100",
+                        "0",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "KeyReleased"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "a"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "\"idleLeft-zeke\""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "s"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "\"walkingDown-zeke\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "0",
+                        "100",
+                        "0"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "KeyReleased"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "s"
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "\"idleDown-zeke\""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
                 }
               ],
-              "events": []
+              "parameters": []
             },
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Mobilie",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
                 {
-                  "type": {
-                    "inverted": false,
-                    "value": "Arret"
-                  },
-                  "parameters": [
-                    "Zeke"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "BottomArrowRoundButton",
+                        "",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
                   ],
-                  "subInstructions": []
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "\"walkingDown-zeke\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "0",
+                        "100",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "TopArrowRoundButton",
+                        "",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "\"walkingUp-zeke\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "0",
+                        "-100",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "RightArrowRoundButton",
+                        "",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "\"walkingRight-zeke\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "100",
+                        "0",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SourisSurObjet"
+                      },
+                      "parameters": [
+                        "LeftArrowRoundButton",
+                        "",
+                        "",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SetAnimationName"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "\"walkingLeft-zeke\""
+                      ],
+                      "subInstructions": []
+                    },
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "Zeke",
+                        "-100",
+                        "0",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
                 }
               ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "SetAnimationName"
-                  },
-                  "parameters": [
-                    "Zeke",
-                    "\"idle\""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
+              "parameters": []
             }
           ],
           "parameters": []
@@ -1236,12 +2028,12 @@
       ],
       "layers": [
         {
-          "ambientLightColorB": 7633280,
+          "ambientLightColorB": 8480688,
           "ambientLightColorG": 6040208,
-          "ambientLightColorR": 7353880,
+          "ambientLightColorR": 8458496,
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
-          "name": "level background",
+          "name": "boundaries",
           "visibility": true,
           "cameras": [],
           "effects": []
@@ -1267,9 +2059,25 @@
             }
           ],
           "effects": []
+        },
+        {
+          "ambientLightColorB": 11,
+          "ambientLightColorG": 6040208,
+          "ambientLightColorR": 8668064,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "controls",
+          "visibility": true,
+          "cameras": [],
+          "effects": []
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        }
+      ]
     }
   ],
   "externalEvents": [],
@@ -4813,6 +5621,24 @@
           ]
         }
       ]
+    },
+    {
+      "author": "",
+      "category": "",
+      "description": "",
+      "extensionNamespace": "",
+      "fullName": "",
+      "helpPath": "",
+      "iconUrl": "",
+      "name": "UntitledExtension",
+      "previewIconUrl": "",
+      "shortDescription": "",
+      "version": "",
+      "tags": [],
+      "authorIds": [],
+      "dependencies": [],
+      "eventsFunctions": [],
+      "eventsBasedBehaviors": []
     }
   ],
   "externalLayouts": [],
